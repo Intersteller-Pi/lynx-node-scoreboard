@@ -13,7 +13,7 @@ Node.js Web Scoreboard for FinishLynx
   + add node to PATH (windows installer sometimes doen't do this by default)
     + open cmd prompt as administrator
     + SET PATH=C:\Program Files\Nodejs;%PATH%
-+ create a folder for you Node project (c:\node)
++ create a folder for your Node project (c:\node)
 + install socket.io node.js module (required for LAN version, not WAN)
   + must be in the same directory as the node project
   + from a command prompt
